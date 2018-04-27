@@ -1,4 +1,4 @@
-# devtools 1.13.3.9000
+# devtools 1.13.5.9000
 
 * `test_file_coverage()` function added to show the test coverage of one or
   more files from a package. (#1755).
